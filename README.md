@@ -427,7 +427,7 @@ jobs:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ### **Security Disclosure**
-For security issues, please contact: [security@yourproject.com](mailto:security@yourproject.com)
+For security issues, please contact: [security@yourproject.com](mailto:ajstylesmb@gmail.com)
 
 ### **Legal Compliance**
 - **Regulatory Compliance**: Framework designed for regulatory compliance
